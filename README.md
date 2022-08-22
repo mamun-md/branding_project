@@ -1,3 +1,3 @@
 # branding_project
-This is my first project. This project like my bio-data. I tried to showed that here about me and my all social media's profile.
-https://mamun-md.github.io/branding_project/
+This is my first job. I learned some aspects of HTML such as adding headings, icons, image tags, external link add elements, and address elements. I did my first work using this topic.
+https://mamun-md.github.io/branding_project/mamun-md.html
